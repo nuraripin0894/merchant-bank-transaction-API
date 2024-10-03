@@ -1,7 +1,0 @@
-{"customer_id":1,"action":"login","description":"Customer John Doe logged in","timestamp":"2024-10-03T21:05:30+07:00"}
-{"customer_id":1,"action":"logout","description":"Customer John Doe logged out","timestamp":"2024-10-03T21:05:37+07:00"}
-{"customer_id":1,"action":"login","description":"Customer John Doe logged in","timestamp":"2024-10-03T21:05:55+07:00"}
-{"customer_id":1,"action":"payment","description":"Customer John Doe paid 5000.00 to Merchant 1","timestamp":"2024-10-03T21:06:10+07:00"}
-{"customer_id":1,"action":"login","description":"Customer John Doe logged in","timestamp":"2024-10-03T21:40:45+07:00"}
-{"customer_id":1,"action":"payment","description":"Customer John Doe paid 8000.00 to Merchant 1","timestamp":"2024-10-03T21:40:55+07:00"}
-{"customer_id":1,"action":"logout","description":"Customer John Doe logged out","timestamp":"2024-10-03T21:41:00+07:00"}
